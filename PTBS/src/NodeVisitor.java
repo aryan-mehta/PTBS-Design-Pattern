@@ -14,7 +14,7 @@ public class NodeVisitor {
 	/**
 	 *  
 	 */
-	public void visitFacase(Facade facade) {
+	public void visitFacade(Facade facade) {
 
 	}
 
