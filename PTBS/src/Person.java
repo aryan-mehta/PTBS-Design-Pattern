@@ -1,5 +1,6 @@
 //Bridge Pattern - abstract class on one side of the bridge
 abstract class Person {
+	public UserInfoItem personInformation;
 	// use this variable to point to a concrete productMenu object.
 	private ProductMenu theProductMenu;
 
